@@ -1,7 +1,5 @@
 package pl.akademia.kodu;
 
-import org.apache.commons.codec.digest.DigestUtils;
-
 import java.util.Scanner;
 
 public class Login {
@@ -12,9 +10,14 @@ public class Login {
         String login = scanner.nextLine();
 
         System.out.print("Password: ");
-        String lassword = scanner.nextLine();
+        String password = scanner.nextLine();
 
         DBConnection.connect();
+        if (DBConnection.authenticate(login, password)){
+            System.out.printf("Jest ok");
+        } else {
+            System.out.println("Error");
+        }
 
     }
 }

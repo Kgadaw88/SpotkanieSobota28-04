@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fe8d7c7-26ec-4585-892a-d089fc10f9dc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/DBConnection.java" afterPath="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/DBConnection.java" />
-      <change beforePath="$PROJECT_DIR$/target/Sobota28.04-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/Sobota28.04-1.0-SNAPSHOT.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/akademia/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/akademia/kodu/DBConnection.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/akademia/kodu/Registration.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java" afterPath="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +20,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="168">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +32,9 @@
       <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,17 +42,17 @@
       <file leaf-file-name="DBConnection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/DBConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+            <state relative-caret-position="924">
+              <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1524919254909" expanded="true" signature="715:789" ph="INSERT INTO user... " />
-                <marker date="1524919254909" expanded="true" signature="1382:1408" ph="SELECT passw... user" />
-                <marker date="1524919254909" expanded="true" signature="1382:1419" ph="SELECT passw... user" />
-                <marker date="1524919254909" expanded="true" signature="1382:1420" ph="SELECT passw... user" />
-                <marker date="1524919254909" expanded="true" signature="1382:1421" ph="SELECT passw... user" />
-                <marker date="1524919254909" expanded="true" signature="1382:1435" ph="SELECT passw... user" />
-                <marker date="1524919254909" expanded="true" signature="1388:1408" ph="INSERT INTO user... " />
+                <marker date="1524920832215" expanded="true" signature="715:789" ph="INSERT INTO user... " />
+                <marker date="1524920832215" expanded="true" signature="1382:1408" ph="SELECT passw... user" />
+                <marker date="1524920832215" expanded="true" signature="1382:1419" ph="SELECT passw... user" />
+                <marker date="1524920832215" expanded="true" signature="1382:1420" ph="SELECT passw... user" />
+                <marker date="1524920832215" expanded="true" signature="1382:1421" ph="SELECT passw... user" />
+                <marker date="1524920832215" expanded="true" signature="1382:1435" ph="SELECT passw... user" />
+                <marker date="1524920832215" expanded="true" signature="1388:1408" ph="INSERT INTO user... " />
               </folding>
             </state>
           </provider>
@@ -75,8 +61,8 @@
       <file leaf-file-name="Registration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Registration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="402">
+              <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,9 +124,9 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/akademia/User.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Registration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/DBConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/akademia/kodu/DBConnection.java" />
       </list>
     </option>
   </component>
@@ -166,7 +152,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -241,6 +227,11 @@
               <item name="pl" type="462c0819:PsiDirectoryNode" />
               <item name="akademia" type="462c0819:PsiDirectoryNode" />
               <item name="kodu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sobota28.04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sobota28.04" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,15 +318,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524904149851</updated>
-      <workItem from="1524904154383" duration="10919000" />
+      <workItem from="1524904154383" duration="12472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10919000" />
+    <option name="totallyTimeSpent" value="12472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -344,7 +336,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10526316" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10526316" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23376623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -410,7 +402,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -422,10 +416,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Registration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="402">
+          <caret line="28" column="38" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -460,39 +454,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Registration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/akademia/kodu/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        <state relative-caret-position="924">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1524919254909" expanded="true" signature="715:789" ph="INSERT INTO user... " />
-            <marker date="1524919254909" expanded="true" signature="1382:1408" ph="SELECT passw... user" />
-            <marker date="1524919254909" expanded="true" signature="1382:1419" ph="SELECT passw... user" />
-            <marker date="1524919254909" expanded="true" signature="1382:1420" ph="SELECT passw... user" />
-            <marker date="1524919254909" expanded="true" signature="1382:1421" ph="SELECT passw... user" />
-            <marker date="1524919254909" expanded="true" signature="1382:1435" ph="SELECT passw... user" />
-            <marker date="1524919254909" expanded="true" signature="1388:1408" ph="INSERT INTO user... " />
+            <marker date="1524920832215" expanded="true" signature="715:789" ph="INSERT INTO user... " />
+            <marker date="1524920832215" expanded="true" signature="1382:1408" ph="SELECT passw... user" />
+            <marker date="1524920832215" expanded="true" signature="1382:1419" ph="SELECT passw... user" />
+            <marker date="1524920832215" expanded="true" signature="1382:1420" ph="SELECT passw... user" />
+            <marker date="1524920832215" expanded="true" signature="1382:1421" ph="SELECT passw... user" />
+            <marker date="1524920832215" expanded="true" signature="1382:1435" ph="SELECT passw... user" />
+            <marker date="1524920832215" expanded="true" signature="1388:1408" ph="INSERT INTO user... " />
           </folding>
         </state>
       </provider>

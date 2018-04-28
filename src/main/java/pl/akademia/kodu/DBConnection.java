@@ -52,16 +52,9 @@ public class DBConnection {
                 } else {
                     return false;
                 }
-//            PreparedStatement preparedStatement = connect.prepareStatement(sqlInsert);
-//
-//            preparedStatement.setString(1, user.getLogin());
-//            preparedStatement.setString(2, user.getPassword());
-//            preparedStatement.setString(3, user.getName());
-//            preparedStatement.setString(4, user.getSurname());
-
-//            preparedStatement.executeUpdate();
             }
             return false;
+
             } catch(SQLException e) {
             e.printStackTrace();
             return false;
