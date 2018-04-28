@@ -13,7 +13,6 @@ public class Registration {
         user.setLogin(scanner.nextLine());
 
         System.out.print("Password: ");
-        DigestUtils.md5Hex(scanner.nextLine());
         user.setPassword(DigestUtils.md5Hex(scanner.nextLine()));
 
         System.out.print("Name: ");
