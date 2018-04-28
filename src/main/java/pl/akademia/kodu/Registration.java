@@ -1,10 +1,7 @@
 package pl.akademia.kodu;
 
 import org.apache.commons.codec.digest.DigestUtils;
-import pl.akademia.User;
 
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
 public class Registration {

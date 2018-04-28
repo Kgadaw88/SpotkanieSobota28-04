@@ -1,3 +1,5 @@
+package pl.akademia.kodu;
+
 import pl.akademia.kodu.Login;
 import pl.akademia.kodu.Registration;
 

@@ -1,4 +1,4 @@
-package pl.akademia;
+package pl.akademia.kodu;
 
 public class User {
     String login, name, surname, password;

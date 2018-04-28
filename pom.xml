@@ -22,7 +22,7 @@
                     <!-- MainClass in mainfest make a executable jar -->
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>pl.akademia.kodu.Main</mainClass>
                         </manifest>
                     </archive>
 

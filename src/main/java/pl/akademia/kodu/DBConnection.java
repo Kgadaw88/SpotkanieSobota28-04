@@ -1,7 +1,6 @@
 package pl.akademia.kodu;
 
 import org.apache.commons.codec.digest.DigestUtils;
-import pl.akademia.User;
 
 import java.sql.*;
 
